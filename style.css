@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+/*nav related style*/
+
+nav {
+    display: flex;
+    background-color: #FFF8F3;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+nav h3 {
+    font-weight: 500;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.nav-title {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 800;
+
+}
+
+.r {
+    color: #FD6E0A;
+}
+
+nav>ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+    align-items: center;
+
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+    font-size: 20px;
+
+
+
+
+}
+
+nav .hire {
+    font-size: 20px;
+    padding: 18px 35px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
